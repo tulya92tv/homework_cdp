@@ -1,0 +1,6 @@
+# Directories and files
+node_modules/
+node_modules
+results/
+cypress/fixtures/apiKey.json
+cypress/fixtures/testUsersData.json
