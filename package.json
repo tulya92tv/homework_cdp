@@ -1,0 +1,15 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "scripts": {
+    "runSmokeTestsProd": "npx cypress run --spec 'cypress/tests/smoke/**'",
+    "runFunctionalTestsProd": "npx cypress run --spec 'cypress/tests/functional/**'",
+    "runE2ETestsProd": "npx cypress run --spec 'cypress/tests/e2e/**'",
+    "lintFix": "npx prettier . --write"
+  },
+  "devDependencies": {
+    "cypress": "12.17.4",
+    "prettier": "3.0.2",
+    "typescript": "^5.1.6"
+  }
+}

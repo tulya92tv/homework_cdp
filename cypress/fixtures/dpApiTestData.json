@@ -1,0 +1,17 @@
+{
+  "pagePayload": {
+    "userId": "97980cfea0349",
+    "name": "Home",
+    "properties": {
+      "category": "any",
+      "url": "http://www.example.com",
+      "title": "Hello World!",
+      "referrer": "undefined",
+      "path": "/page",
+      "search": ""
+    },
+    "originalTimestamp": {
+      "format": "date-time"
+    }
+  }
+}
